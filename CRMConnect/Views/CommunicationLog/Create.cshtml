@@ -1,0 +1,56 @@
+@model CRMConnect.Models.CommunicationLog
+
+@{
+    ViewData["Title"] = "Create Communication Log";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<!-- Create Communication Log Form -->
+<form asp-action="Create" method="post">
+    <!-- Customer Dropdown -->
+    <div class="form-group">
+        <label for="CustomerId">Customer</label>
+        <select name="CustomerId" class="form-control">
+            @foreach (var customer in ViewBag.Customers)
+            {
+                <option value="@customer.Id">@customer.Name</option>
+            }
+        </select>
+    </div>
+
+    <!-- User Dropdown -->
+    <div class="form-group">
+        <label for="UserId">User</label>
+        <select name="UserId" class="form-control">
+            @foreach (var user in ViewBag.Users)
+            {
+                <option value="@user.UserId">@user.Username</option>
+            }
+        </select>
+    </div>
+
+    <!-- Communication Type Field -->
+    <div class="form-group">
+        <label for="CommunicationType">Communication Type</label>
+        <input asp-for="CommunicationType" class="form-control" />
+    </div>
+
+    <!-- Notes Field -->
+    <div class="form-group">
+        <label for="Notes">Notes</label>
+        <textarea asp-for="Notes" class="form-control"></textarea>
+    </div>
+
+    <!-- Date Field -->
+    <div class="form-group">
+        <label for="Date">Date</label>
+        <input type="datetime-local" asp-for="Date" class="form-control" />
+    </div>
+
+    <!-- Submit Button -->
+    <button type="submit" class="btn btn-success">Create</button>
+
+    <!-- Cancel Button -->
+    <a href="@Url.Action("IndexCommunication", "CommunicationLog")" class="btn btn-danger">Cancel</a>
+</form>

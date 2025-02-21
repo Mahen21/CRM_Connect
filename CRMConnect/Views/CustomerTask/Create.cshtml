@@ -1,0 +1,36 @@
+@model CRMConnect.Models.SalesActivity
+
+@{
+    ViewData["Title"] = "Add Sales Activity";
+}
+
+<!-- Create Task Form -->
+<div class="mt-4">
+    <h2>Create Customer Task</h2>
+    <form id="taskForm">
+        <div class="mb-3">
+            <label for="customerId" class="form-label">Customer ID</label>
+            <input type="number" class="form-control" id="customerId" required>
+        </div>
+        <div class="mb-3">
+            <label for="description" class="form-label">Description</label>
+            <input type="text" class="form-control" id="description" required maxlength="255">
+        </div>
+        <div class="mb-3">
+            <label for="assignedTo" class="form-label">Assigned To</label>
+            <input type="text" class="form-control" id="assignedTo" required maxlength="100">
+        </div>
+        <div class="mb-3">
+            <label for="dueDate" class="form-label">Due Date</label>
+            <input type="date" class="form-control" id="dueDate" required>
+        </div>
+        <div class="mb-3">
+            <label for="status" class="form-label">Status</label>
+            <select class="form-control" id="status" required>
+                <option value="Pending">Pending</option>
+                <option value="Completed">Completed</option>
+            </select>
+        </div>
+        <button type="submit" class="btn btn-primary">Create Task</button>
+    </form>
+</div>

@@ -1,0 +1,40 @@
+@model IEnumerable<CRMConnect.Models.CommunicationLog>
+
+@{
+    ViewData["Title"] = "Communication Logs";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<a asp-action="Create" class="btn btn-primary mb-3">Create New Log</a>
+
+<table class="table table-bordered mt-4">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Customer</th>
+            <th>User</th>
+            <th>Communication Type</th>
+            <th>Notes</th>
+            <th>Date</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var log in Model)
+        {
+            <tr>
+                <td>@log.Id</td>
+                <td>@log.Customer?.Name ?? "N/A"</td> <!-- Added null-check for Customer -->
+                <td>@log.User?.Username ?? "N/A"</td> <!-- Updated to 'Username' -->
+                <td>@log.CommunicationType</td>
+                <td>@log.Notes</td>
+                <td>@log.Date</td>
+                <td>
+                    <a href="@Url.Action("Delete", "CommunicationLog", new { id = log.Id })"
+                        class="btn btn-danger btn-sm">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

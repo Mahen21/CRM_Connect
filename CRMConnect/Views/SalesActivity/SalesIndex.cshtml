@@ -1,0 +1,67 @@
+@{
+    ViewData["Title"] = "Sales Activities";
+}
+
+<div class="container mt-4">
+    <h2 class="text-center">Sales Activities</h2>
+    <a class="btn btn-primary mb-3" asp-action="Create">Add Activity</a>
+
+    <table class="table table-bordered" id="salesActivityTable">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Customer</th>
+                <th>Product</th>
+                <th>Amount</th>
+                <th>Status</th>
+                <th>Date</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody id="salesActivityTableBody">
+            <!-- Data will be inserted here by JavaScript -->
+        </tbody>
+    </table>
+</div>
+
+@section Scripts {
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            loadSalesActivities();
+        });
+
+        // Function to load sales activities from the API
+        function loadSalesActivities() {
+            fetch('/api/salesactivities') // API endpoint
+                .then(response => response.json()) // Parse response as JSON
+                .then(data => {
+                    const tableBody = document.getElementById("salesActivityTableBody");
+                    tableBody.innerHTML = ""; // Clear previous table content
+
+                    // Loop through the data and create table rows
+                    data.forEach(activity => {
+                        const row = `
+                                <tr>
+                                    <td>${activity.salesActivityId}</td>
+                                    <td>${activity.customerId}</td>
+                                    <td>${activity.product}</td>
+                                    <td>$${activity.amount.toFixed(2)}</td>
+                                    <td>${activity.status}</td>
+                                    <td>${new Date(activity.date).toLocaleDateString()}</td>
+                                    <td>
+                                        <a class="btn btn-sm btn-warning" href="/salesactivities/edit/${activity.salesActivityId}">Edit</a>
+                                        <a class="btn btn-sm btn-danger" href="/salesactivities/delete/${activity.salesActivityId}">Delete</a>
+                                    </td>
+                                </tr>
+                            `;
+                        tableBody.innerHTML += row;
+                    });
+                })
+                .catch(error => console.error('Error fetching sales activities:', error));
+        }
+    </script>
+}
+
+@section Scripts {
+    <script src="~/js/Sales.js"></script> <!-- Reference to Sales.js -->
+}
