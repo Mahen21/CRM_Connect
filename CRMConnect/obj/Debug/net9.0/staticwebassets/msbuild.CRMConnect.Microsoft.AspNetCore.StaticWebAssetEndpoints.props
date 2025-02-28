@@ -36,29 +36,29 @@
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Jtxf9L\u002B5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"5430"},{"Name":"Content-Type","Value":"image/x-icon"},{"Name":"ETag","Value":"\u0022Jtxf9L\u002B5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=\u0022"},{"Name":"Last-Modified","Value":"Mon, 17 Feb 2025 14:50:01 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CRMConnect/js/communicationLog.0i5pgqlu30.js">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\communicationLog.js'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"0i5pgqlu30"},{"Name":"integrity","Value":"sha256-6I\u002Bki9BDm4apRGCv9AQXwAEvBayzG3Lf2kAdPZWkHec="},{"Name":"label","Value":"_content/CRMConnect/js/communicationLog.js"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"4522"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u00226I\u002Bki9BDm4apRGCv9AQXwAEvBayzG3Lf2kAdPZWkHec=\u0022"},{"Name":"Last-Modified","Value":"Thu, 20 Feb 2025 08:47:54 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/CRMConnect/js/communicationLog.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\communicationLog.js'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-6I\u002Bki9BDm4apRGCv9AQXwAEvBayzG3Lf2kAdPZWkHec="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"4522"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u00226I\u002Bki9BDm4apRGCv9AQXwAEvBayzG3Lf2kAdPZWkHec=\u0022"},{"Name":"Last-Modified","Value":"Thu, 20 Feb 2025 08:47:54 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Gm9elQlU5q3TKiPjqnCrPUeFqMg45/5ZypkC0C\u002B2Vo0="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"5191"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022Gm9elQlU5q3TKiPjqnCrPUeFqMg45/5ZypkC0C\u002B2Vo0=\u0022"},{"Name":"Last-Modified","Value":"Fri, 28 Feb 2025 09:30:28 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CRMConnect/js/customers.55rrwv0jmj.js">
+    <StaticWebAssetEndpoint Include="_content/CRMConnect/js/communicationLog.uudfx3n228.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\communicationLog.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"uudfx3n228"},{"Name":"integrity","Value":"sha256-Gm9elQlU5q3TKiPjqnCrPUeFqMg45/5ZypkC0C\u002B2Vo0="},{"Name":"label","Value":"_content/CRMConnect/js/communicationLog.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"5191"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022Gm9elQlU5q3TKiPjqnCrPUeFqMg45/5ZypkC0C\u002B2Vo0=\u0022"},{"Name":"Last-Modified","Value":"Fri, 28 Feb 2025 09:30:28 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CRMConnect/js/customers.jf6s5xkcj9.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\customers.js'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"55rrwv0jmj"},{"Name":"integrity","Value":"sha256-KX4SMU70iSkz\u002BU5EZVFKJL7K5HPZRdWqnQfDXAoQJAc="},{"Name":"label","Value":"_content/CRMConnect/js/customers.js"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3810"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022KX4SMU70iSkz\u002BU5EZVFKJL7K5HPZRdWqnQfDXAoQJAc=\u0022"},{"Name":"Last-Modified","Value":"Thu, 20 Feb 2025 10:37:16 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"jf6s5xkcj9"},{"Name":"integrity","Value":"sha256-cWdt2W66kbPRffC7EdSlafaPFgVKpAOs388WOP2KJxs="},{"Name":"label","Value":"_content/CRMConnect/js/customers.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3436"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022cWdt2W66kbPRffC7EdSlafaPFgVKpAOs388WOP2KJxs=\u0022"},{"Name":"Last-Modified","Value":"Fri, 28 Feb 2025 15:14:20 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/CRMConnect/js/customers.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\customers.js'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-KX4SMU70iSkz\u002BU5EZVFKJL7K5HPZRdWqnQfDXAoQJAc="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"3810"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022KX4SMU70iSkz\u002BU5EZVFKJL7K5HPZRdWqnQfDXAoQJAc=\u0022"},{"Name":"Last-Modified","Value":"Thu, 20 Feb 2025 10:37:16 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-cWdt2W66kbPRffC7EdSlafaPFgVKpAOs388WOP2KJxs="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"3436"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022cWdt2W66kbPRffC7EdSlafaPFgVKpAOs388WOP2KJxs=\u0022"},{"Name":"Last-Modified","Value":"Fri, 28 Feb 2025 15:14:20 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/CRMConnect/js/home.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\home.js'))</AssetFile>
@@ -72,17 +72,17 @@
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"t0za2euc6q"},{"Name":"integrity","Value":"sha256-zelMTWv0yFZ8gswrf/BeeQD6DcCOQsDwg0pAbWD4Img="},{"Name":"label","Value":"_content/CRMConnect/js/home.js"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1073"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022zelMTWv0yFZ8gswrf/BeeQD6DcCOQsDwg0pAbWD4Img=\u0022"},{"Name":"Last-Modified","Value":"Fri, 21 Feb 2025 06:02:15 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CRMConnect/js/Sales.efs35topux.js">
+    <StaticWebAssetEndpoint Include="_content/CRMConnect/js/Sales.4oqilftn7k.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\Sales.js'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"efs35topux"},{"Name":"integrity","Value":"sha256-qitHEH2yK9NazIrrCL8meJU7qjoJnRYHWFRMwnwzyBo="},{"Name":"label","Value":"_content/CRMConnect/js/Sales.js"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"4141"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022qitHEH2yK9NazIrrCL8meJU7qjoJnRYHWFRMwnwzyBo=\u0022"},{"Name":"Last-Modified","Value":"Wed, 19 Feb 2025 17:10:12 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"4oqilftn7k"},{"Name":"integrity","Value":"sha256-hLgqOdKHpY50ku3rTcFd\u002BXmDEc/9pC6RgermLXuM61c="},{"Name":"label","Value":"_content/CRMConnect/js/Sales.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1279"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022hLgqOdKHpY50ku3rTcFd\u002BXmDEc/9pC6RgermLXuM61c=\u0022"},{"Name":"Last-Modified","Value":"Fri, 28 Feb 2025 15:54:41 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/CRMConnect/js/Sales.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\Sales.js'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-qitHEH2yK9NazIrrCL8meJU7qjoJnRYHWFRMwnwzyBo="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"4141"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022qitHEH2yK9NazIrrCL8meJU7qjoJnRYHWFRMwnwzyBo=\u0022"},{"Name":"Last-Modified","Value":"Wed, 19 Feb 2025 17:10:12 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-hLgqOdKHpY50ku3rTcFd\u002BXmDEc/9pC6RgermLXuM61c="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1279"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022hLgqOdKHpY50ku3rTcFd\u002BXmDEc/9pC6RgermLXuM61c=\u0022"},{"Name":"Last-Modified","Value":"Fri, 28 Feb 2025 15:54:41 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/CRMConnect/js/site.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\site.js'))</AssetFile>
@@ -96,17 +96,17 @@
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"xtxxf3hu2r"},{"Name":"integrity","Value":"sha256-hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo="},{"Name":"label","Value":"_content/CRMConnect/js/site.js"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"231"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo=\u0022"},{"Name":"Last-Modified","Value":"Mon, 17 Feb 2025 14:50:01 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CRMConnect/js/Tasks.6ya9fhccto.js">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\Tasks.js'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"6ya9fhccto"},{"Name":"integrity","Value":"sha256-Uk0XkYqNBF/oHYJ8o1sus3VwVEgir0zWunt9\u002BPYuh/c="},{"Name":"label","Value":"_content/CRMConnect/js/Tasks.js"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3932"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022Uk0XkYqNBF/oHYJ8o1sus3VwVEgir0zWunt9\u002BPYuh/c=\u0022"},{"Name":"Last-Modified","Value":"Fri, 21 Feb 2025 05:07:39 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/CRMConnect/js/Tasks.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\Tasks.js'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Uk0XkYqNBF/oHYJ8o1sus3VwVEgir0zWunt9\u002BPYuh/c="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"3932"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022Uk0XkYqNBF/oHYJ8o1sus3VwVEgir0zWunt9\u002BPYuh/c=\u0022"},{"Name":"Last-Modified","Value":"Fri, 21 Feb 2025 05:07:39 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-3NK\u002B4XRQupMVf\u002BSoXSBda3UORPmcAzdJYM/YSw70CnY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"4026"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u00223NK\u002B4XRQupMVf\u002BSoXSBda3UORPmcAzdJYM/YSw70CnY=\u0022"},{"Name":"Last-Modified","Value":"Thu, 27 Feb 2025 09:48:27 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CRMConnect/js/Tasks.o90y1v6zmo.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\Tasks.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"o90y1v6zmo"},{"Name":"integrity","Value":"sha256-3NK\u002B4XRQupMVf\u002BSoXSBda3UORPmcAzdJYM/YSw70CnY="},{"Name":"label","Value":"_content/CRMConnect/js/Tasks.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"4026"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u00223NK\u002B4XRQupMVf\u002BSoXSBda3UORPmcAzdJYM/YSw70CnY=\u0022"},{"Name":"Last-Modified","Value":"Thu, 27 Feb 2025 09:48:27 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/CRMConnect/lib/bootstrap/dist/css/bootstrap-grid.bqjiyaj88i.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\css\bootstrap-grid.css'))</AssetFile>

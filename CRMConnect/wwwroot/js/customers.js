@@ -11,12 +11,12 @@ function fetchCustomers() {
             tableBody.innerHTML = ""; // Clear the table before populating it
             data.forEach(customer => {
                 tableBody.innerHTML += `
-                    <tr>
+                    <tr id="customer-${customer.id}">
                         <td>${customer.id}</td>
                         <td>${customer.name}</td>
                         <td>${customer.email}</td>
                         <td>${customer.phone}</td>
-                        <td>${customer.address || "N/A"}</td> 
+                        <td>${customer.address || "N/A"}</td>
                         <td>${customer.company}</td>
                         <td>
                             <button class="btn btn-danger btn-sm" onclick="deleteCustomer(${customer.id})">Delete</button>
@@ -48,12 +48,12 @@ function addCustomer() {
         name: document.getElementById("name").value,
         email: document.getElementById("email").value,
         phone: document.getElementById("phone").value,
-        address: document.getElementById("address").value, 
+        address: document.getElementById("address").value,
         company: document.getElementById("company").value
     };
 
     // Send the data to the backend API
-    fetch("http://localhost:5146/api/customers", {
+    fetch("/api/customers", {
         method: "POST",
         headers: {
             "Content-Type": "application/json"
@@ -61,7 +61,7 @@ function addCustomer() {
         body: JSON.stringify(newCustomer)
     })
     .then(response => response.json())
-    .then(() => {
+    .then(customer => {
         // Clear the form fields
         document.getElementById("customerForm").reset();
 
@@ -72,26 +72,10 @@ function addCustomer() {
         // Reload the customer list to reflect the new customer
         fetchCustomers();
     })
-    .catch(error => console.error("Error adding customer:", error));
-}
-
-// Function to update the customer table with the new customer
-function updateCustomerTable(customer) {
-    const customerTableBody = document.getElementById("customerTableBody");
-
-    const row = document.createElement("tr");
-    row.innerHTML = `
-        <td>${customer.id}</td>
-        <td>${customer.name}</td>
-        <td>${customer.email}</td>
-        <td>${customer.phone}</td>
-        <td>${customer.company}</td>
-        <td>
-            <!-- Add any actions like edit or delete here -->
-        </td>
-    `;
-
-    customerTableBody.appendChild(row);
+    .catch(error => {
+        console.error("Error adding customer:", error);
+        alert("Failed to add customer. Please try again.");
+    });
 }
 
 // Function to delete a customer
@@ -100,8 +84,11 @@ function deleteCustomer(id) {
         fetch(`/api/customers/${id}`, { method: "DELETE" })
         .then(() => {
             alert("Customer deleted successfully!");
-            fetchCustomers();
+            fetchCustomers(); // Refresh the list
         })
-        .catch(error => console.error("Error deleting customer:", error));
+        .catch(error => {
+            console.error("Error deleting customer:", error);
+            alert("Failed to delete customer. Please try again.");
+        });
     }
 }

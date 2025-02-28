@@ -101,6 +101,29 @@ function createCommunicationLog(log) {
     });
 }
 
+
+function deleteCommunicationLog(id) {
+    if (!confirm("Are you sure you want to delete this log?")) return;
+
+    fetch(`http://localhost:5146/api/communicationlogs/${id}`, {
+        method: 'DELETE',
+    })
+    .then(response => response.json())
+    .then(data => {
+        if (data.success) {
+            alert("Log deleted successfully!");
+            fetchCommunicationLogs(); // Refresh the table
+        } else {
+            alert("Error deleting communication log.");
+        }
+    })
+    .catch(error => {
+        console.error('Error deleting communication log:', error);
+        alert("Error deleting communication log.");
+    });
+}
+
+
 // Initial function to fetch and display the communication logs when the page is loaded
 window.onload = function () {
     fetchCommunicationLogs();  // Fetch and display the logs when the page loads

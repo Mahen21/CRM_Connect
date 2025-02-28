@@ -1,0 +1,44 @@
+@model CRMConnect.Models.SalesActivity
+
+@{
+    ViewData["Title"] = "Add Sales Activity";
+}
+
+<div class="container mt-4">
+    <h2 class="text-center">Add Sales Activity</h2>
+
+    <form method="post">
+        <div class="mb-3">
+            <label for="customerId" class="form-label">Customer ID</label>
+            <input type="number" class="form-control" id="customerId" name="CustomerId" value="@Model.CustomerId"
+                required />
+        </div>
+        <div class="mb-3">
+            <label for="product" class="form-label">Product</label>
+            <input type="text" class="form-control" id="product" name="Product" value="@Model.Product" required />
+        </div>
+        <div class="mb-3">
+            <label for="amount" class="form-label">Amount</label>
+            <input type="number" step="0.01" class="form-control" id="amount" name="Amount" value="@Model.Amount"
+                required />
+        </div>
+        <div class="mb-3">
+            <label for="status" class="form-label">Status</label>
+            <select class="form-control" id="status" name="status" required>
+                <option value="">Select Status</option>
+                <option value="Pending">Pending</option>
+                <option value="Completed">Completed</option>
+                <option value="Failed">Failed</option>
+            </select>
+
+        </div>
+        <div class="mb-3">
+            <label for="activityDate" class="form-label">Date</label>
+            <input type="date" class="form-control" id="activityDate" name="Date"
+                value="@Model.Date.ToString("yyyy-MM-dd")" required />
+        </div>
+
+        <button type="submit" class="btn btn-primary">Save</button>
+        <a class="btn btn-secondary" href="/SalesActivities/Index">Cancel</a>
+    </form>
+</div>

@@ -219,8 +219,9 @@ C:\Users\Mahen Fernando\Documents\CRM_Connect\CRMConnect\bin\Debug\net9.0\runtim
 C:\Users\Mahen Fernando\Documents\CRM_Connect\CRMConnect\obj\Debug\net9.0\CRMConnect.csproj.AssemblyReference.cache
 C:\Users\Mahen Fernando\Documents\CRM_Connect\CRMConnect\obj\Debug\net9.0\CRMConnect.csproj.Up2Date
 C:\Users\Mahen Fernando\Documents\CRM_Connect\CRMConnect\obj\Debug\net9.0\compressed\22dbc0x7px-t0za2euc6q.gz
-C:\Users\Mahen Fernando\Documents\CRM_Connect\CRMConnect\obj\Debug\net9.0\compressed\uq0tmenm44-efs35topux.gz
-C:\Users\Mahen Fernando\Documents\CRM_Connect\CRMConnect\obj\Debug\net9.0\compressed\4lsqc093nk-0i5pgqlu30.gz
-C:\Users\Mahen Fernando\Documents\CRM_Connect\CRMConnect\obj\Debug\net9.0\compressed\daycjw03gc-55rrwv0jmj.gz
-C:\Users\Mahen Fernando\Documents\CRM_Connect\CRMConnect\obj\Debug\net9.0\compressed\b4lg1g017f-6ya9fhccto.gz
 C:\Users\Mahen Fernando\Documents\CRM_Connect\CRMConnect\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\Mahen Fernando\Documents\CRM_Connect\CRMConnect\obj\Debug\net9.0\CRMConnect.sourcelink.json
+C:\Users\Mahen Fernando\Documents\CRM_Connect\CRMConnect\obj\Debug\net9.0\compressed\b4lg1g017f-o90y1v6zmo.gz
+C:\Users\Mahen Fernando\Documents\CRM_Connect\CRMConnect\obj\Debug\net9.0\compressed\4lsqc093nk-uudfx3n228.gz
+C:\Users\Mahen Fernando\Documents\CRM_Connect\CRMConnect\obj\Debug\net9.0\compressed\daycjw03gc-jf6s5xkcj9.gz
+C:\Users\Mahen Fernando\Documents\CRM_Connect\CRMConnect\obj\Debug\net9.0\compressed\uq0tmenm44-4oqilftn7k.gz

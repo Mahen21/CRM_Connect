@@ -16,13 +16,11 @@ public class CommunicationLogController : Controller
     // GET: CommunicationLog/IndexCommunication
     public IActionResult IndexCommunication()
     {
-        // Retrieve all communication logs with related customers and users
         var communicationLogs = _context.CommunicationLogs
-            .Include(c => c.Customer)
-            .Include(u => u.User)
+            .Include(c => c.Customer) // Ensure Customer data is loaded
+            .Include(c => c.User) // Ensure User data is loaded
             .ToList();
 
-        // Return the communication logs to the view
         return View(communicationLogs);
     }
 

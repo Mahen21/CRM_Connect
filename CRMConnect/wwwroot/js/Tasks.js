@@ -1,12 +1,12 @@
 // Fetch existing tasks and display them when the page loads
 async function fetchTasks() {
+    console.log("Fetching tasks...");
     try {
         const response = await fetch('http://localhost:5146/api/customertasks');
         if (response.ok) {
             const tasks = await response.json();
-            tasks.forEach(task => {
-                addTaskToTable(task);
-            });
+            document.getElementById("taskList").innerHTML = ""; // Clear previous data
+            tasks.forEach(task => addTaskToTable(task));
         } else {
             console.error("Failed to fetch tasks");
         }
@@ -14,6 +14,7 @@ async function fetchTasks() {
         console.error("Error fetching tasks: ", error);
     }
 }
+
 
 // Add a task to the table
 function addTaskToTable(task) {

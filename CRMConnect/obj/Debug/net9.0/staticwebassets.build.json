@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "v7RuhlTsxat3nhLyG22061ow2NogIQywFnFsKxj82gw=",
+  "Hash": "Ixe4RNZptbqzOJyietQPkU6uVGdiYxjFT9sMYkM0VdU=",
   "Source": "CRMConnect",
   "BasePath": "_content/CRMConnect",
   "Mode": "Default",
@@ -290,12 +290,12 @@
       "OriginalItemSpec": "C:\\Users\\Mahen Fernando\\Documents\\CRM_Connect\\CRMConnect\\wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\Mahen Fernando\\Documents\\CRM_Connect\\CRMConnect\\obj\\Debug\\net9.0\\compressed\\4lsqc093nk-0i5pgqlu30.gz",
+      "Identity": "C:\\Users\\Mahen Fernando\\Documents\\CRM_Connect\\CRMConnect\\obj\\Debug\\net9.0\\compressed\\4lsqc093nk-uudfx3n228.gz",
       "SourceId": "CRMConnect",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Mahen Fernando\\Documents\\CRM_Connect\\CRMConnect\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/CRMConnect",
-      "RelativePath": "js/communicationLog#[.{fingerprint=0i5pgqlu30}]?.js.gz",
+      "RelativePath": "js/communicationLog#[.{fingerprint=uudfx3n228}]?.js.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -304,8 +304,8 @@
       "RelatedAsset": "C:\\Users\\Mahen Fernando\\Documents\\CRM_Connect\\CRMConnect\\wwwroot\\js\\communicationLog.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "hd7vvbfl5x",
-      "Integrity": "6w1ECCc8i0+0A6DV20z0K1Q3cNfP2DqTDJAoxOPizhM=",
+      "Fingerprint": "aqb5a2e3li",
+      "Integrity": "XgNsonJ7lZz8Qcdn7DN5BagBK3wb6qV+i3XsmdVQfOI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Mahen Fernando\\Documents\\CRM_Connect\\CRMConnect\\wwwroot\\js\\communicationLog.js"
@@ -458,12 +458,12 @@
       "OriginalItemSpec": "C:\\Users\\Mahen Fernando\\Documents\\CRM_Connect\\CRMConnect\\obj\\Debug\\net9.0\\scopedcss\\bundle\\CRMConnect.styles.css"
     },
     {
-      "Identity": "C:\\Users\\Mahen Fernando\\Documents\\CRM_Connect\\CRMConnect\\obj\\Debug\\net9.0\\compressed\\b4lg1g017f-6ya9fhccto.gz",
+      "Identity": "C:\\Users\\Mahen Fernando\\Documents\\CRM_Connect\\CRMConnect\\obj\\Debug\\net9.0\\compressed\\b4lg1g017f-o90y1v6zmo.gz",
       "SourceId": "CRMConnect",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Mahen Fernando\\Documents\\CRM_Connect\\CRMConnect\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/CRMConnect",
-      "RelativePath": "js/Tasks#[.{fingerprint=6ya9fhccto}]?.js.gz",
+      "RelativePath": "js/Tasks#[.{fingerprint=o90y1v6zmo}]?.js.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -472,8 +472,8 @@
       "RelatedAsset": "C:\\Users\\Mahen Fernando\\Documents\\CRM_Connect\\CRMConnect\\wwwroot\\js\\Tasks.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "55aezw9p3j",
-      "Integrity": "2X3aIOm5/ugtpcbCODZo7KYbheF+6iOHrARdJTqCZ/c=",
+      "Fingerprint": "bux61oq21i",
+      "Integrity": "Le6E2Zt/BbH6zdon7H2uDkC81fQw6gseL+OzEGSQ7H8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Mahen Fernando\\Documents\\CRM_Connect\\CRMConnect\\wwwroot\\js\\Tasks.js"
@@ -521,12 +521,12 @@
       "OriginalItemSpec": "C:\\Users\\Mahen Fernando\\Documents\\CRM_Connect\\CRMConnect\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\Mahen Fernando\\Documents\\CRM_Connect\\CRMConnect\\obj\\Debug\\net9.0\\compressed\\daycjw03gc-55rrwv0jmj.gz",
+      "Identity": "C:\\Users\\Mahen Fernando\\Documents\\CRM_Connect\\CRMConnect\\obj\\Debug\\net9.0\\compressed\\daycjw03gc-jf6s5xkcj9.gz",
       "SourceId": "CRMConnect",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Mahen Fernando\\Documents\\CRM_Connect\\CRMConnect\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/CRMConnect",
-      "RelativePath": "js/customers#[.{fingerprint=55rrwv0jmj}]?.js.gz",
+      "RelativePath": "js/customers#[.{fingerprint=jf6s5xkcj9}]?.js.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -535,8 +535,8 @@
       "RelatedAsset": "C:\\Users\\Mahen Fernando\\Documents\\CRM_Connect\\CRMConnect\\wwwroot\\js\\customers.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "31mpj2o5iu",
-      "Integrity": "xza59HaI+pghz+FgM9Bc15sSXLJESOfO0pn37O8XAqw=",
+      "Fingerprint": "k22vgvx6fh",
+      "Integrity": "xGd8SiSWHSeydJwd3zt1VUStjTct56cYeJLDQ00onnA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Mahen Fernando\\Documents\\CRM_Connect\\CRMConnect\\wwwroot\\js\\customers.js"
@@ -1277,12 +1277,12 @@
       "OriginalItemSpec": "C:\\Users\\Mahen Fernando\\Documents\\CRM_Connect\\CRMConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Mahen Fernando\\Documents\\CRM_Connect\\CRMConnect\\obj\\Debug\\net9.0\\compressed\\uq0tmenm44-efs35topux.gz",
+      "Identity": "C:\\Users\\Mahen Fernando\\Documents\\CRM_Connect\\CRMConnect\\obj\\Debug\\net9.0\\compressed\\uq0tmenm44-4oqilftn7k.gz",
       "SourceId": "CRMConnect",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Mahen Fernando\\Documents\\CRM_Connect\\CRMConnect\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/CRMConnect",
-      "RelativePath": "js/Sales#[.{fingerprint=efs35topux}]?.js.gz",
+      "RelativePath": "js/Sales#[.{fingerprint=4oqilftn7k}]?.js.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -1291,8 +1291,8 @@
       "RelatedAsset": "C:\\Users\\Mahen Fernando\\Documents\\CRM_Connect\\CRMConnect\\wwwroot\\js\\Sales.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "5yqtr21gnf",
-      "Integrity": "rYAUJ4l8ItovW/s+gmtfVAwG4+PdLKom5sKvxQb6rlc=",
+      "Fingerprint": "3y397i9joj",
+      "Integrity": "xUQ8evp92jf6RHJv8oMNnbCpbLcWRdMN46h7bQEF8h0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Mahen Fernando\\Documents\\CRM_Connect\\CRMConnect\\wwwroot\\js\\Sales.js"
@@ -1564,8 +1564,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "0i5pgqlu30",
-      "Integrity": "6I+ki9BDm4apRGCv9AQXwAEvBayzG3Lf2kAdPZWkHec=",
+      "Fingerprint": "uudfx3n228",
+      "Integrity": "Gm9elQlU5q3TKiPjqnCrPUeFqMg45/5ZypkC0C+2Vo0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\communicationLog.js"
@@ -1585,8 +1585,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "55rrwv0jmj",
-      "Integrity": "KX4SMU70iSkz+U5EZVFKJL7K5HPZRdWqnQfDXAoQJAc=",
+      "Fingerprint": "jf6s5xkcj9",
+      "Integrity": "cWdt2W66kbPRffC7EdSlafaPFgVKpAOs388WOP2KJxs=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\customers.js"
@@ -1627,8 +1627,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "efs35topux",
-      "Integrity": "qitHEH2yK9NazIrrCL8meJU7qjoJnRYHWFRMwnwzyBo=",
+      "Fingerprint": "4oqilftn7k",
+      "Integrity": "hLgqOdKHpY50ku3rTcFd+XmDEc/9pC6RgermLXuM61c=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\Sales.js"
@@ -1669,8 +1669,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "6ya9fhccto",
-      "Integrity": "Uk0XkYqNBF/oHYJ8o1sus3VwVEgir0zWunt9+PYuh/c=",
+      "Fingerprint": "o90y1v6zmo",
+      "Integrity": "3NK+4XRQupMVf+SoXSBda3UORPmcAzdJYM/YSw70CnY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\Tasks.js"
@@ -4130,13 +4130,13 @@
       ]
     },
     {
-      "Route": "js/communicationLog.0i5pgqlu30.js",
-      "AssetFile": "C:\\Users\\Mahen Fernando\\Documents\\CRM_Connect\\CRMConnect\\obj\\Debug\\net9.0\\compressed\\4lsqc093nk-0i5pgqlu30.gz",
+      "Route": "js/communicationLog.js",
+      "AssetFile": "C:\\Users\\Mahen Fernando\\Documents\\CRM_Connect\\CRMConnect\\obj\\Debug\\net9.0\\compressed\\4lsqc093nk-uudfx3n228.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000676589986"
+          "Quality": "0.000625390869"
         }
       ],
       "ResponseHeaders": [
@@ -4146,19 +4146,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1477"
+          "Value": "1598"
         },
         {
           "Name": "ETag",
-          "Value": "\"6w1ECCc8i0+0A6DV20z0K1Q3cNfP2DqTDJAoxOPizhM=\""
+          "Value": "\"XgNsonJ7lZz8Qcdn7DN5BagBK3wb6qV+i3XsmdVQfOI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Feb 2025 08:47:54 GMT"
+          "Value": "Fri, 28 Feb 2025 09:30:28 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -4174,26 +4174,18 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"6I+ki9BDm4apRGCv9AQXwAEvBayzG3Lf2kAdPZWkHec=\""
+          "Value": "W/\"Gm9elQlU5q3TKiPjqnCrPUeFqMg45/5ZypkC0C+2Vo0=\""
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "0i5pgqlu30"
-        },
-        {
-          "Name": "label",
-          "Value": "js/communicationLog.js"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-6I+ki9BDm4apRGCv9AQXwAEvBayzG3Lf2kAdPZWkHec="
+          "Value": "sha256-Gm9elQlU5q3TKiPjqnCrPUeFqMg45/5ZypkC0C+2Vo0="
         }
       ]
     },
     {
-      "Route": "js/communicationLog.0i5pgqlu30.js",
+      "Route": "js/communicationLog.js",
       "AssetFile": "C:\\Users\\Mahen Fernando\\Documents\\CRM_Connect\\CRMConnect\\wwwroot\\js\\communicationLog.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -4203,7 +4195,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4522"
+          "Value": "5191"
         },
         {
           "Name": "Content-Type",
@@ -4211,11 +4203,156 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"6I+ki9BDm4apRGCv9AQXwAEvBayzG3Lf2kAdPZWkHec=\""
+          "Value": "\"Gm9elQlU5q3TKiPjqnCrPUeFqMg45/5ZypkC0C+2Vo0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Feb 2025 08:47:54 GMT"
+          "Value": "Fri, 28 Feb 2025 09:30:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Gm9elQlU5q3TKiPjqnCrPUeFqMg45/5ZypkC0C+2Vo0="
+        }
+      ]
+    },
+    {
+      "Route": "js/communicationLog.js.gz",
+      "AssetFile": "C:\\Users\\Mahen Fernando\\Documents\\CRM_Connect\\CRMConnect\\obj\\Debug\\net9.0\\compressed\\4lsqc093nk-uudfx3n228.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1598"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XgNsonJ7lZz8Qcdn7DN5BagBK3wb6qV+i3XsmdVQfOI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Feb 2025 09:30:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XgNsonJ7lZz8Qcdn7DN5BagBK3wb6qV+i3XsmdVQfOI="
+        }
+      ]
+    },
+    {
+      "Route": "js/communicationLog.uudfx3n228.js",
+      "AssetFile": "C:\\Users\\Mahen Fernando\\Documents\\CRM_Connect\\CRMConnect\\obj\\Debug\\net9.0\\compressed\\4lsqc093nk-uudfx3n228.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000625390869"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1598"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XgNsonJ7lZz8Qcdn7DN5BagBK3wb6qV+i3XsmdVQfOI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Feb 2025 09:30:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Gm9elQlU5q3TKiPjqnCrPUeFqMg45/5ZypkC0C+2Vo0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "uudfx3n228"
+        },
+        {
+          "Name": "label",
+          "Value": "js/communicationLog.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Gm9elQlU5q3TKiPjqnCrPUeFqMg45/5ZypkC0C+2Vo0="
+        }
+      ]
+    },
+    {
+      "Route": "js/communicationLog.uudfx3n228.js",
+      "AssetFile": "C:\\Users\\Mahen Fernando\\Documents\\CRM_Connect\\CRMConnect\\wwwroot\\js\\communicationLog.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5191"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Gm9elQlU5q3TKiPjqnCrPUeFqMg45/5ZypkC0C+2Vo0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Feb 2025 09:30:28 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4225,7 +4362,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "0i5pgqlu30"
+          "Value": "uudfx3n228"
         },
         {
           "Name": "label",
@@ -4233,13 +4370,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-6I+ki9BDm4apRGCv9AQXwAEvBayzG3Lf2kAdPZWkHec="
+          "Value": "sha256-Gm9elQlU5q3TKiPjqnCrPUeFqMg45/5ZypkC0C+2Vo0="
         }
       ]
     },
     {
-      "Route": "js/communicationLog.0i5pgqlu30.js.gz",
-      "AssetFile": "C:\\Users\\Mahen Fernando\\Documents\\CRM_Connect\\CRMConnect\\obj\\Debug\\net9.0\\compressed\\4lsqc093nk-0i5pgqlu30.gz",
+      "Route": "js/communicationLog.uudfx3n228.js.gz",
+      "AssetFile": "C:\\Users\\Mahen Fernando\\Documents\\CRM_Connect\\CRMConnect\\obj\\Debug\\net9.0\\compressed\\4lsqc093nk-uudfx3n228.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4248,7 +4385,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1477"
+          "Value": "1598"
         },
         {
           "Name": "Content-Type",
@@ -4256,11 +4393,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"6w1ECCc8i0+0A6DV20z0K1Q3cNfP2DqTDJAoxOPizhM=\""
+          "Value": "\"XgNsonJ7lZz8Qcdn7DN5BagBK3wb6qV+i3XsmdVQfOI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Feb 2025 08:47:54 GMT"
+          "Value": "Fri, 28 Feb 2025 09:30:28 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4278,7 +4415,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "0i5pgqlu30"
+          "Value": "uudfx3n228"
         },
         {
           "Name": "label",
@@ -4286,18 +4423,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-6w1ECCc8i0+0A6DV20z0K1Q3cNfP2DqTDJAoxOPizhM="
+          "Value": "sha256-XgNsonJ7lZz8Qcdn7DN5BagBK3wb6qV+i3XsmdVQfOI="
         }
       ]
     },
     {
-      "Route": "js/communicationLog.js",
-      "AssetFile": "C:\\Users\\Mahen Fernando\\Documents\\CRM_Connect\\CRMConnect\\obj\\Debug\\net9.0\\compressed\\4lsqc093nk-0i5pgqlu30.gz",
+      "Route": "js/customers.jf6s5xkcj9.js",
+      "AssetFile": "C:\\Users\\Mahen Fernando\\Documents\\CRM_Connect\\CRMConnect\\obj\\Debug\\net9.0\\compressed\\daycjw03gc-jf6s5xkcj9.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000676589986"
+          "Quality": "0.000916590284"
         }
       ],
       "ResponseHeaders": [
@@ -4307,152 +4444,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1477"
+          "Value": "1090"
         },
         {
           "Name": "ETag",
-          "Value": "\"6w1ECCc8i0+0A6DV20z0K1Q3cNfP2DqTDJAoxOPizhM=\""
+          "Value": "\"xGd8SiSWHSeydJwd3zt1VUStjTct56cYeJLDQ00onnA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Feb 2025 08:47:54 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"6I+ki9BDm4apRGCv9AQXwAEvBayzG3Lf2kAdPZWkHec=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-6I+ki9BDm4apRGCv9AQXwAEvBayzG3Lf2kAdPZWkHec="
-        }
-      ]
-    },
-    {
-      "Route": "js/communicationLog.js",
-      "AssetFile": "C:\\Users\\Mahen Fernando\\Documents\\CRM_Connect\\CRMConnect\\wwwroot\\js\\communicationLog.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "4522"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"6I+ki9BDm4apRGCv9AQXwAEvBayzG3Lf2kAdPZWkHec=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 20 Feb 2025 08:47:54 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-6I+ki9BDm4apRGCv9AQXwAEvBayzG3Lf2kAdPZWkHec="
-        }
-      ]
-    },
-    {
-      "Route": "js/communicationLog.js.gz",
-      "AssetFile": "C:\\Users\\Mahen Fernando\\Documents\\CRM_Connect\\CRMConnect\\obj\\Debug\\net9.0\\compressed\\4lsqc093nk-0i5pgqlu30.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1477"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"6w1ECCc8i0+0A6DV20z0K1Q3cNfP2DqTDJAoxOPizhM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 20 Feb 2025 08:47:54 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-6w1ECCc8i0+0A6DV20z0K1Q3cNfP2DqTDJAoxOPizhM="
-        }
-      ]
-    },
-    {
-      "Route": "js/customers.55rrwv0jmj.js",
-      "AssetFile": "C:\\Users\\Mahen Fernando\\Documents\\CRM_Connect\\CRMConnect\\obj\\Debug\\net9.0\\compressed\\daycjw03gc-55rrwv0jmj.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000851063830"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1174"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"xza59HaI+pghz+FgM9Bc15sSXLJESOfO0pn37O8XAqw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 20 Feb 2025 10:37:16 GMT"
+          "Value": "Fri, 28 Feb 2025 15:14:20 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4472,13 +4472,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"KX4SMU70iSkz+U5EZVFKJL7K5HPZRdWqnQfDXAoQJAc=\""
+          "Value": "W/\"cWdt2W66kbPRffC7EdSlafaPFgVKpAOs388WOP2KJxs=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "55rrwv0jmj"
+          "Value": "jf6s5xkcj9"
         },
         {
           "Name": "label",
@@ -4486,12 +4486,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-KX4SMU70iSkz+U5EZVFKJL7K5HPZRdWqnQfDXAoQJAc="
+          "Value": "sha256-cWdt2W66kbPRffC7EdSlafaPFgVKpAOs388WOP2KJxs="
         }
       ]
     },
     {
-      "Route": "js/customers.55rrwv0jmj.js",
+      "Route": "js/customers.jf6s5xkcj9.js",
       "AssetFile": "C:\\Users\\Mahen Fernando\\Documents\\CRM_Connect\\CRMConnect\\wwwroot\\js\\customers.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -4501,7 +4501,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3810"
+          "Value": "3436"
         },
         {
           "Name": "Content-Type",
@@ -4509,11 +4509,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"KX4SMU70iSkz+U5EZVFKJL7K5HPZRdWqnQfDXAoQJAc=\""
+          "Value": "\"cWdt2W66kbPRffC7EdSlafaPFgVKpAOs388WOP2KJxs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Feb 2025 10:37:16 GMT"
+          "Value": "Fri, 28 Feb 2025 15:14:20 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4523,7 +4523,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "55rrwv0jmj"
+          "Value": "jf6s5xkcj9"
         },
         {
           "Name": "label",
@@ -4531,13 +4531,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-KX4SMU70iSkz+U5EZVFKJL7K5HPZRdWqnQfDXAoQJAc="
+          "Value": "sha256-cWdt2W66kbPRffC7EdSlafaPFgVKpAOs388WOP2KJxs="
         }
       ]
     },
     {
-      "Route": "js/customers.55rrwv0jmj.js.gz",
-      "AssetFile": "C:\\Users\\Mahen Fernando\\Documents\\CRM_Connect\\CRMConnect\\obj\\Debug\\net9.0\\compressed\\daycjw03gc-55rrwv0jmj.gz",
+      "Route": "js/customers.jf6s5xkcj9.js.gz",
+      "AssetFile": "C:\\Users\\Mahen Fernando\\Documents\\CRM_Connect\\CRMConnect\\obj\\Debug\\net9.0\\compressed\\daycjw03gc-jf6s5xkcj9.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4546,7 +4546,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1174"
+          "Value": "1090"
         },
         {
           "Name": "Content-Type",
@@ -4554,11 +4554,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"xza59HaI+pghz+FgM9Bc15sSXLJESOfO0pn37O8XAqw=\""
+          "Value": "\"xGd8SiSWHSeydJwd3zt1VUStjTct56cYeJLDQ00onnA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Feb 2025 10:37:16 GMT"
+          "Value": "Fri, 28 Feb 2025 15:14:20 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4576,7 +4576,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "55rrwv0jmj"
+          "Value": "jf6s5xkcj9"
         },
         {
           "Name": "label",
@@ -4584,18 +4584,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-xza59HaI+pghz+FgM9Bc15sSXLJESOfO0pn37O8XAqw="
+          "Value": "sha256-xGd8SiSWHSeydJwd3zt1VUStjTct56cYeJLDQ00onnA="
         }
       ]
     },
     {
       "Route": "js/customers.js",
-      "AssetFile": "C:\\Users\\Mahen Fernando\\Documents\\CRM_Connect\\CRMConnect\\obj\\Debug\\net9.0\\compressed\\daycjw03gc-55rrwv0jmj.gz",
+      "AssetFile": "C:\\Users\\Mahen Fernando\\Documents\\CRM_Connect\\CRMConnect\\obj\\Debug\\net9.0\\compressed\\daycjw03gc-jf6s5xkcj9.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000851063830"
+          "Quality": "0.000916590284"
         }
       ],
       "ResponseHeaders": [
@@ -4605,15 +4605,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1174"
+          "Value": "1090"
         },
         {
           "Name": "ETag",
-          "Value": "\"xza59HaI+pghz+FgM9Bc15sSXLJESOfO0pn37O8XAqw=\""
+          "Value": "\"xGd8SiSWHSeydJwd3zt1VUStjTct56cYeJLDQ00onnA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Feb 2025 10:37:16 GMT"
+          "Value": "Fri, 28 Feb 2025 15:14:20 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4633,13 +4633,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"KX4SMU70iSkz+U5EZVFKJL7K5HPZRdWqnQfDXAoQJAc=\""
+          "Value": "W/\"cWdt2W66kbPRffC7EdSlafaPFgVKpAOs388WOP2KJxs=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-KX4SMU70iSkz+U5EZVFKJL7K5HPZRdWqnQfDXAoQJAc="
+          "Value": "sha256-cWdt2W66kbPRffC7EdSlafaPFgVKpAOs388WOP2KJxs="
         }
       ]
     },
@@ -4654,7 +4654,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3810"
+          "Value": "3436"
         },
         {
           "Name": "Content-Type",
@@ -4662,11 +4662,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"KX4SMU70iSkz+U5EZVFKJL7K5HPZRdWqnQfDXAoQJAc=\""
+          "Value": "\"cWdt2W66kbPRffC7EdSlafaPFgVKpAOs388WOP2KJxs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Feb 2025 10:37:16 GMT"
+          "Value": "Fri, 28 Feb 2025 15:14:20 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4676,13 +4676,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-KX4SMU70iSkz+U5EZVFKJL7K5HPZRdWqnQfDXAoQJAc="
+          "Value": "sha256-cWdt2W66kbPRffC7EdSlafaPFgVKpAOs388WOP2KJxs="
         }
       ]
     },
     {
       "Route": "js/customers.js.gz",
-      "AssetFile": "C:\\Users\\Mahen Fernando\\Documents\\CRM_Connect\\CRMConnect\\obj\\Debug\\net9.0\\compressed\\daycjw03gc-55rrwv0jmj.gz",
+      "AssetFile": "C:\\Users\\Mahen Fernando\\Documents\\CRM_Connect\\CRMConnect\\obj\\Debug\\net9.0\\compressed\\daycjw03gc-jf6s5xkcj9.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4691,7 +4691,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1174"
+          "Value": "1090"
         },
         {
           "Name": "Content-Type",
@@ -4699,11 +4699,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"xza59HaI+pghz+FgM9Bc15sSXLJESOfO0pn37O8XAqw=\""
+          "Value": "\"xGd8SiSWHSeydJwd3zt1VUStjTct56cYeJLDQ00onnA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Feb 2025 10:37:16 GMT"
+          "Value": "Fri, 28 Feb 2025 15:14:20 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4721,7 +4721,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-xza59HaI+pghz+FgM9Bc15sSXLJESOfO0pn37O8XAqw="
+          "Value": "sha256-xGd8SiSWHSeydJwd3zt1VUStjTct56cYeJLDQ00onnA="
         }
       ]
     },
@@ -5024,13 +5024,13 @@
       ]
     },
     {
-      "Route": "js/Sales.efs35topux.js",
-      "AssetFile": "C:\\Users\\Mahen Fernando\\Documents\\CRM_Connect\\CRMConnect\\obj\\Debug\\net9.0\\compressed\\uq0tmenm44-efs35topux.gz",
+      "Route": "js/Sales.4oqilftn7k.js",
+      "AssetFile": "C:\\Users\\Mahen Fernando\\Documents\\CRM_Connect\\CRMConnect\\obj\\Debug\\net9.0\\compressed\\uq0tmenm44-4oqilftn7k.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000748502994"
+          "Quality": "0.002012072435"
         }
       ],
       "ResponseHeaders": [
@@ -5040,15 +5040,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1335"
+          "Value": "496"
         },
         {
           "Name": "ETag",
-          "Value": "\"rYAUJ4l8ItovW/s+gmtfVAwG4+PdLKom5sKvxQb6rlc=\""
+          "Value": "\"xUQ8evp92jf6RHJv8oMNnbCpbLcWRdMN46h7bQEF8h0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 19 Feb 2025 17:10:12 GMT"
+          "Value": "Fri, 28 Feb 2025 15:54:41 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5068,13 +5068,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"qitHEH2yK9NazIrrCL8meJU7qjoJnRYHWFRMwnwzyBo=\""
+          "Value": "W/\"hLgqOdKHpY50ku3rTcFd+XmDEc/9pC6RgermLXuM61c=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "efs35topux"
+          "Value": "4oqilftn7k"
         },
         {
           "Name": "label",
@@ -5082,12 +5082,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-qitHEH2yK9NazIrrCL8meJU7qjoJnRYHWFRMwnwzyBo="
+          "Value": "sha256-hLgqOdKHpY50ku3rTcFd+XmDEc/9pC6RgermLXuM61c="
         }
       ]
     },
     {
-      "Route": "js/Sales.efs35topux.js",
+      "Route": "js/Sales.4oqilftn7k.js",
       "AssetFile": "C:\\Users\\Mahen Fernando\\Documents\\CRM_Connect\\CRMConnect\\wwwroot\\js\\Sales.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -5097,7 +5097,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4141"
+          "Value": "1279"
         },
         {
           "Name": "Content-Type",
@@ -5105,11 +5105,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"qitHEH2yK9NazIrrCL8meJU7qjoJnRYHWFRMwnwzyBo=\""
+          "Value": "\"hLgqOdKHpY50ku3rTcFd+XmDEc/9pC6RgermLXuM61c=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 19 Feb 2025 17:10:12 GMT"
+          "Value": "Fri, 28 Feb 2025 15:54:41 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5119,7 +5119,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "efs35topux"
+          "Value": "4oqilftn7k"
         },
         {
           "Name": "label",
@@ -5127,13 +5127,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-qitHEH2yK9NazIrrCL8meJU7qjoJnRYHWFRMwnwzyBo="
+          "Value": "sha256-hLgqOdKHpY50ku3rTcFd+XmDEc/9pC6RgermLXuM61c="
         }
       ]
     },
     {
-      "Route": "js/Sales.efs35topux.js.gz",
-      "AssetFile": "C:\\Users\\Mahen Fernando\\Documents\\CRM_Connect\\CRMConnect\\obj\\Debug\\net9.0\\compressed\\uq0tmenm44-efs35topux.gz",
+      "Route": "js/Sales.4oqilftn7k.js.gz",
+      "AssetFile": "C:\\Users\\Mahen Fernando\\Documents\\CRM_Connect\\CRMConnect\\obj\\Debug\\net9.0\\compressed\\uq0tmenm44-4oqilftn7k.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5142,7 +5142,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1335"
+          "Value": "496"
         },
         {
           "Name": "Content-Type",
@@ -5150,11 +5150,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"rYAUJ4l8ItovW/s+gmtfVAwG4+PdLKom5sKvxQb6rlc=\""
+          "Value": "\"xUQ8evp92jf6RHJv8oMNnbCpbLcWRdMN46h7bQEF8h0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 19 Feb 2025 17:10:12 GMT"
+          "Value": "Fri, 28 Feb 2025 15:54:41 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5172,7 +5172,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "efs35topux"
+          "Value": "4oqilftn7k"
         },
         {
           "Name": "label",
@@ -5180,18 +5180,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-rYAUJ4l8ItovW/s+gmtfVAwG4+PdLKom5sKvxQb6rlc="
+          "Value": "sha256-xUQ8evp92jf6RHJv8oMNnbCpbLcWRdMN46h7bQEF8h0="
         }
       ]
     },
     {
       "Route": "js/Sales.js",
-      "AssetFile": "C:\\Users\\Mahen Fernando\\Documents\\CRM_Connect\\CRMConnect\\obj\\Debug\\net9.0\\compressed\\uq0tmenm44-efs35topux.gz",
+      "AssetFile": "C:\\Users\\Mahen Fernando\\Documents\\CRM_Connect\\CRMConnect\\obj\\Debug\\net9.0\\compressed\\uq0tmenm44-4oqilftn7k.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000748502994"
+          "Quality": "0.002012072435"
         }
       ],
       "ResponseHeaders": [
@@ -5201,15 +5201,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1335"
+          "Value": "496"
         },
         {
           "Name": "ETag",
-          "Value": "\"rYAUJ4l8ItovW/s+gmtfVAwG4+PdLKom5sKvxQb6rlc=\""
+          "Value": "\"xUQ8evp92jf6RHJv8oMNnbCpbLcWRdMN46h7bQEF8h0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 19 Feb 2025 17:10:12 GMT"
+          "Value": "Fri, 28 Feb 2025 15:54:41 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5229,13 +5229,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"qitHEH2yK9NazIrrCL8meJU7qjoJnRYHWFRMwnwzyBo=\""
+          "Value": "W/\"hLgqOdKHpY50ku3rTcFd+XmDEc/9pC6RgermLXuM61c=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-qitHEH2yK9NazIrrCL8meJU7qjoJnRYHWFRMwnwzyBo="
+          "Value": "sha256-hLgqOdKHpY50ku3rTcFd+XmDEc/9pC6RgermLXuM61c="
         }
       ]
     },
@@ -5250,7 +5250,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4141"
+          "Value": "1279"
         },
         {
           "Name": "Content-Type",
@@ -5258,11 +5258,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"qitHEH2yK9NazIrrCL8meJU7qjoJnRYHWFRMwnwzyBo=\""
+          "Value": "\"hLgqOdKHpY50ku3rTcFd+XmDEc/9pC6RgermLXuM61c=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 19 Feb 2025 17:10:12 GMT"
+          "Value": "Fri, 28 Feb 2025 15:54:41 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5272,13 +5272,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-qitHEH2yK9NazIrrCL8meJU7qjoJnRYHWFRMwnwzyBo="
+          "Value": "sha256-hLgqOdKHpY50ku3rTcFd+XmDEc/9pC6RgermLXuM61c="
         }
       ]
     },
     {
       "Route": "js/Sales.js.gz",
-      "AssetFile": "C:\\Users\\Mahen Fernando\\Documents\\CRM_Connect\\CRMConnect\\obj\\Debug\\net9.0\\compressed\\uq0tmenm44-efs35topux.gz",
+      "AssetFile": "C:\\Users\\Mahen Fernando\\Documents\\CRM_Connect\\CRMConnect\\obj\\Debug\\net9.0\\compressed\\uq0tmenm44-4oqilftn7k.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5287,7 +5287,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1335"
+          "Value": "496"
         },
         {
           "Name": "Content-Type",
@@ -5295,11 +5295,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"rYAUJ4l8ItovW/s+gmtfVAwG4+PdLKom5sKvxQb6rlc=\""
+          "Value": "\"xUQ8evp92jf6RHJv8oMNnbCpbLcWRdMN46h7bQEF8h0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 19 Feb 2025 17:10:12 GMT"
+          "Value": "Fri, 28 Feb 2025 15:54:41 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5317,7 +5317,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-rYAUJ4l8ItovW/s+gmtfVAwG4+PdLKom5sKvxQb6rlc="
+          "Value": "sha256-xUQ8evp92jf6RHJv8oMNnbCpbLcWRdMN46h7bQEF8h0="
         }
       ]
     },
@@ -5620,13 +5620,13 @@
       ]
     },
     {
-      "Route": "js/Tasks.6ya9fhccto.js",
-      "AssetFile": "C:\\Users\\Mahen Fernando\\Documents\\CRM_Connect\\CRMConnect\\obj\\Debug\\net9.0\\compressed\\b4lg1g017f-6ya9fhccto.gz",
+      "Route": "js/Tasks.js",
+      "AssetFile": "C:\\Users\\Mahen Fernando\\Documents\\CRM_Connect\\CRMConnect\\obj\\Debug\\net9.0\\compressed\\b4lg1g017f-o90y1v6zmo.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000740192450"
+          "Quality": "0.000718907261"
         }
       ],
       "ResponseHeaders": [
@@ -5636,19 +5636,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1350"
+          "Value": "1390"
         },
         {
           "Name": "ETag",
-          "Value": "\"2X3aIOm5/ugtpcbCODZo7KYbheF+6iOHrARdJTqCZ/c=\""
+          "Value": "\"Le6E2Zt/BbH6zdon7H2uDkC81fQw6gseL+OzEGSQ7H8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 21 Feb 2025 05:07:39 GMT"
+          "Value": "Thu, 27 Feb 2025 09:48:27 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -5664,26 +5664,18 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"Uk0XkYqNBF/oHYJ8o1sus3VwVEgir0zWunt9+PYuh/c=\""
+          "Value": "W/\"3NK+4XRQupMVf+SoXSBda3UORPmcAzdJYM/YSw70CnY=\""
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "6ya9fhccto"
-        },
-        {
-          "Name": "label",
-          "Value": "js/Tasks.js"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-Uk0XkYqNBF/oHYJ8o1sus3VwVEgir0zWunt9+PYuh/c="
+          "Value": "sha256-3NK+4XRQupMVf+SoXSBda3UORPmcAzdJYM/YSw70CnY="
         }
       ]
     },
     {
-      "Route": "js/Tasks.6ya9fhccto.js",
+      "Route": "js/Tasks.js",
       "AssetFile": "C:\\Users\\Mahen Fernando\\Documents\\CRM_Connect\\CRMConnect\\wwwroot\\js\\Tasks.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -5693,7 +5685,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3932"
+          "Value": "4026"
         },
         {
           "Name": "Content-Type",
@@ -5701,11 +5693,156 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Uk0XkYqNBF/oHYJ8o1sus3VwVEgir0zWunt9+PYuh/c=\""
+          "Value": "\"3NK+4XRQupMVf+SoXSBda3UORPmcAzdJYM/YSw70CnY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 21 Feb 2025 05:07:39 GMT"
+          "Value": "Thu, 27 Feb 2025 09:48:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3NK+4XRQupMVf+SoXSBda3UORPmcAzdJYM/YSw70CnY="
+        }
+      ]
+    },
+    {
+      "Route": "js/Tasks.js.gz",
+      "AssetFile": "C:\\Users\\Mahen Fernando\\Documents\\CRM_Connect\\CRMConnect\\obj\\Debug\\net9.0\\compressed\\b4lg1g017f-o90y1v6zmo.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1390"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Le6E2Zt/BbH6zdon7H2uDkC81fQw6gseL+OzEGSQ7H8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Feb 2025 09:48:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Le6E2Zt/BbH6zdon7H2uDkC81fQw6gseL+OzEGSQ7H8="
+        }
+      ]
+    },
+    {
+      "Route": "js/Tasks.o90y1v6zmo.js",
+      "AssetFile": "C:\\Users\\Mahen Fernando\\Documents\\CRM_Connect\\CRMConnect\\obj\\Debug\\net9.0\\compressed\\b4lg1g017f-o90y1v6zmo.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000718907261"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1390"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Le6E2Zt/BbH6zdon7H2uDkC81fQw6gseL+OzEGSQ7H8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Feb 2025 09:48:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"3NK+4XRQupMVf+SoXSBda3UORPmcAzdJYM/YSw70CnY=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "o90y1v6zmo"
+        },
+        {
+          "Name": "label",
+          "Value": "js/Tasks.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3NK+4XRQupMVf+SoXSBda3UORPmcAzdJYM/YSw70CnY="
+        }
+      ]
+    },
+    {
+      "Route": "js/Tasks.o90y1v6zmo.js",
+      "AssetFile": "C:\\Users\\Mahen Fernando\\Documents\\CRM_Connect\\CRMConnect\\wwwroot\\js\\Tasks.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4026"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3NK+4XRQupMVf+SoXSBda3UORPmcAzdJYM/YSw70CnY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Feb 2025 09:48:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5715,7 +5852,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "6ya9fhccto"
+          "Value": "o90y1v6zmo"
         },
         {
           "Name": "label",
@@ -5723,13 +5860,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Uk0XkYqNBF/oHYJ8o1sus3VwVEgir0zWunt9+PYuh/c="
+          "Value": "sha256-3NK+4XRQupMVf+SoXSBda3UORPmcAzdJYM/YSw70CnY="
         }
       ]
     },
     {
-      "Route": "js/Tasks.6ya9fhccto.js.gz",
-      "AssetFile": "C:\\Users\\Mahen Fernando\\Documents\\CRM_Connect\\CRMConnect\\obj\\Debug\\net9.0\\compressed\\b4lg1g017f-6ya9fhccto.gz",
+      "Route": "js/Tasks.o90y1v6zmo.js.gz",
+      "AssetFile": "C:\\Users\\Mahen Fernando\\Documents\\CRM_Connect\\CRMConnect\\obj\\Debug\\net9.0\\compressed\\b4lg1g017f-o90y1v6zmo.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5738,7 +5875,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1350"
+          "Value": "1390"
         },
         {
           "Name": "Content-Type",
@@ -5746,11 +5883,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"2X3aIOm5/ugtpcbCODZo7KYbheF+6iOHrARdJTqCZ/c=\""
+          "Value": "\"Le6E2Zt/BbH6zdon7H2uDkC81fQw6gseL+OzEGSQ7H8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 21 Feb 2025 05:07:39 GMT"
+          "Value": "Thu, 27 Feb 2025 09:48:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5768,7 +5905,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "6ya9fhccto"
+          "Value": "o90y1v6zmo"
         },
         {
           "Name": "label",
@@ -5776,144 +5913,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-2X3aIOm5/ugtpcbCODZo7KYbheF+6iOHrARdJTqCZ/c="
-        }
-      ]
-    },
-    {
-      "Route": "js/Tasks.js",
-      "AssetFile": "C:\\Users\\Mahen Fernando\\Documents\\CRM_Connect\\CRMConnect\\obj\\Debug\\net9.0\\compressed\\b4lg1g017f-6ya9fhccto.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000740192450"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1350"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"2X3aIOm5/ugtpcbCODZo7KYbheF+6iOHrARdJTqCZ/c=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 21 Feb 2025 05:07:39 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"Uk0XkYqNBF/oHYJ8o1sus3VwVEgir0zWunt9+PYuh/c=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-Uk0XkYqNBF/oHYJ8o1sus3VwVEgir0zWunt9+PYuh/c="
-        }
-      ]
-    },
-    {
-      "Route": "js/Tasks.js",
-      "AssetFile": "C:\\Users\\Mahen Fernando\\Documents\\CRM_Connect\\CRMConnect\\wwwroot\\js\\Tasks.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "3932"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Uk0XkYqNBF/oHYJ8o1sus3VwVEgir0zWunt9+PYuh/c=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 21 Feb 2025 05:07:39 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-Uk0XkYqNBF/oHYJ8o1sus3VwVEgir0zWunt9+PYuh/c="
-        }
-      ]
-    },
-    {
-      "Route": "js/Tasks.js.gz",
-      "AssetFile": "C:\\Users\\Mahen Fernando\\Documents\\CRM_Connect\\CRMConnect\\obj\\Debug\\net9.0\\compressed\\b4lg1g017f-6ya9fhccto.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1350"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"2X3aIOm5/ugtpcbCODZo7KYbheF+6iOHrARdJTqCZ/c=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 21 Feb 2025 05:07:39 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-2X3aIOm5/ugtpcbCODZo7KYbheF+6iOHrARdJTqCZ/c="
+          "Value": "sha256-Le6E2Zt/BbH6zdon7H2uDkC81fQw6gseL+OzEGSQ7H8="
         }
       ]
     },

@@ -1,93 +1,66 @@
 using Microsoft.AspNetCore.Mvc;
 using CRMConnect.Data;
 using CRMConnect.Models;
-using Microsoft.EntityFrameworkCore;
+using System.Threading.Tasks;
+using System.Linq;
 
-[Route("api/salesactivities")]
-[ApiController]
-public class SalesActivityController : ControllerBase
+namespace CRMConnect.Controllers
 {
-    private readonly ApplicationDbContext _context;
-
-    public SalesActivityController(ApplicationDbContext context)
+    [Route("SalesActivities")]
+    public class SalesActivityController : Controller
     {
-        _context = context;
-    }
+        private readonly ApplicationDbContext _context;
 
-    // GET: api/salesactivities
-    [HttpGet]
-    public async Task<ActionResult<IEnumerable<SalesActivity>>> GetSalesActivities()
-    {
-        return await _context.SalesActivities.ToListAsync();
-    }
-
-    // GET: api/salesactivities/1
-    [HttpGet("{id}")]
-    public async Task<ActionResult<SalesActivity>> GetSalesActivity(int id)
-    {
-        var salesActivity = await _context.SalesActivities.FindAsync(id);
-
-        if (salesActivity == null)
+        public SalesActivityController(ApplicationDbContext context)
         {
-            return NotFound();
+            _context = context;
         }
 
-        return salesActivity;
-    }
-
-    // POST: api/salesactivities
-    [HttpPost]
-    public async Task<ActionResult<SalesActivity>> CreateSalesActivity(SalesActivity salesActivity)
-    {
-        _context.SalesActivities.Add(salesActivity);
-        await _context.SaveChangesAsync();
-
-        return CreatedAtAction(nameof(GetSalesActivity), new { id = salesActivity.SalesActivityId }, salesActivity);
-    }
-
-    // PUT: api/salesactivities/1
-    [HttpPut("{id}")]
-    public async Task<IActionResult> UpdateSalesActivity(int id, SalesActivity salesActivity)
-    {
-        if (id != salesActivity.SalesActivityId)
+        // GET: SalesActivities/Index
+        [Route("Index")]
+        public IActionResult Index()
         {
-            return BadRequest();
+            var activities = _context.SalesActivities.ToList();
+            return View(activities);
         }
 
-        _context.Entry(salesActivity).State = EntityState.Modified;
-
-        try
+        // GET: SalesActivities/Create
+        [Route("Create")]
+        public IActionResult Create()
         {
-            await _context.SaveChangesAsync();
+            return View(new SalesActivity());
         }
-        catch (DbUpdateConcurrencyException)
+
+        // POST: SalesActivities/Create
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        [Route("Create")]
+        public async Task<IActionResult> Create(SalesActivity salesActivity)
         {
-            if (!_context.SalesActivities.Any(e => e.SalesActivityId == id))
+            if (ModelState.IsValid)
+            {
+                _context.Add(salesActivity);
+                await _context.SaveChangesAsync();
+                return RedirectToAction(nameof(Index));
+            }
+            return View(salesActivity);
+        }
+
+        // POST: SalesActivities/Delete/{id}
+        [HttpPost, ActionName("Delete")]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> DeleteConfirmed(int id)
+        {
+            var salesActivity = await _context.SalesActivities.FindAsync(id);
+            if (salesActivity == null)
             {
                 return NotFound();
             }
-            else
-            {
-                throw;
-            }
+
+            _context.SalesActivities.Remove(salesActivity);
+            await _context.SaveChangesAsync();
+            return RedirectToAction(nameof(Index));
         }
 
-        return NoContent();
-    }
-
-    // DELETE: api/salesactivities/1
-    [HttpDelete("{id}")]
-    public async Task<IActionResult> DeleteSalesActivity(int id)
-    {
-        var salesActivity = await _context.SalesActivities.FindAsync(id);
-        if (salesActivity == null)
-        {
-            return NotFound();
-        }
-
-        _context.SalesActivities.Remove(salesActivity);
-        await _context.SaveChangesAsync();
-
-        return NoContent();
     }
 }
